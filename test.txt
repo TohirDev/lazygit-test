@@ -1,1 +1,2 @@
 saka
+fn append() {}
